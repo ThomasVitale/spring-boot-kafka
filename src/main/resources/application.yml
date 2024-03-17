@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo
+  cloud:
+    function:
+      definition: uppercase|sentence
